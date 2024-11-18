@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="one" label="One" language="en" table="x_1547009_hr_decis_polls">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>one</element>
+            <help/>
+            <hint/>
+            <label>One</label>
+            <language>en</language>
+            <name>x_1547009_hr_decis_polls</name>
+            <plural>Ones</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-18 09:10:08</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>One</sys_name>
+            <sys_package display_value="HR Decision Making Platform" source="x_1547009_hr_decis">15b113ff833912107c90e7d0deaad3a4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HR Decision Making Platform">15b113ff833912107c90e7d0deaad3a4</sys_scope>
+            <sys_update_name>sys_documentation_x_1547009_hr_decis_polls_one_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-18 09:10:08</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

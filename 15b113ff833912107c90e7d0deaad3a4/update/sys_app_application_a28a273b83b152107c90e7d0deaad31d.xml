@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>HR Decision Making Platform</description>
+        <device_type>browser</device_type>
+        <hint>HR Decision Making Platform</hint>
+        <name/>
+        <order/>
+        <roles>admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-18 09:10:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a28a273b83b152107c90e7d0deaad31d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HR Decision Making Platform</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="HR Decision Making Platform" source="x_1547009_hr_decis">15b113ff833912107c90e7d0deaad3a4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HR Decision Making Platform">15b113ff833912107c90e7d0deaad3a4</sys_scope>
+        <sys_update_name>sys_app_application_a28a273b83b152107c90e7d0deaad31d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-18 09:10:39</sys_updated_on>
+        <title>HR Decision Making Platform</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

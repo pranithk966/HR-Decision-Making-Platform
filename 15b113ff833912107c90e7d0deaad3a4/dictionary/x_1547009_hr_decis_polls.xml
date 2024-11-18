@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="326ae77f83b152107c90e7d0deaad324" label="Polls" max_length="40" name="x_1547009_hr_decis_polls" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="One" max_length="40" name="one" type="choice">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
